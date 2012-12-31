@@ -88,4 +88,4 @@ Le matériel nécessaire à l'accueil est généralement fourni par les organisa
  - Après la réunion, Luc lance la liste des sponsors sur @fpw pour la répartition des tâches (qui prend quel sponsor).
  - Tout le monde doit envoyer sa clé publique ssh à Luc pour qu'il ouvre un git, miroir du github, pour que chacun puisse marquer l'avancée de sa tâche (son sponsor).
  - La lettre type pour les sponsors sera dans le git, modifiable par tout un chacun jusqu'au premier lundi de la rentrée 2013 (07/01/2013).
- - La réunion IRC du lundi 20/12/2012 est repoussée au lundi 07/01/2013, la présente réunion étant très proche de la réunion IRC prévue, elle en tient lieu.
+ - La réunion IRC du lundi 20/12/2012 est repoussée au jeudi 10/01/2013, la présente réunion étant très proche de la réunion IRC prévue, elle en tient lieu.
