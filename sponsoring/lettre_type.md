@@ -1,8 +1,8 @@
 ###Présentation de la manifestation
-Cette manifestation est le rendez-vous francophone  annuel des développeurs et des acteurs importants du langage Perl.
+Cette manifestation est le rendez-vous francophone annuel des développeurs et des acteurs importants du langage Perl.
 
 Bien qu'essentiellement francophone, plusieurs nationalités y sont représentées chaque année. 
-Comme logiciel libre, Perl participe d'un modèle de développement collaboratif qui fait de cette manifestation  une occasion unique pour les professionnels  de se rencontrer, de présenter leurs travaux, de partager leurs connaissances et d'échanger avec les utilisateurs en dehors de tout cadre commercial.
+Comme logiciel libre, Perl participe d'un modèle de développement collaboratif qui fait de cette manifestation une occasion unique pour les professionnels de se rencontrer, de présenter leurs travaux, de partager leurs connaissances et d'échanger avec les utilisateurs en dehors de tout cadre commercial.
 
 Lors des éditions précédentes, les participants ont pu accéder gratuitement a plus de vingt conférences présentées par des experts reconnus.
 
