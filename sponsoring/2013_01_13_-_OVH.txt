@@ -1,0 +1,48 @@
+To: kaddour@mediabc.fr
+
+======================
+
+Bonjour,
+
+Je suis Luc Didry, je fais partie du comité d'organisation des Journées Perl 2013, avec l'association des Mongueurs de Perl[1].
+
+Les Journées Perl sont le rendez-vous francophone annuel des développeurs et des acteurs importants du langage Perl.
+
+Bien qu'essentiellement francophone, plusieurs nationalités y sont représentées chaque année. Comme logiciel libre, Perl participe d'un modèle de développement collaboratif qui fait de cette manifestation une occasion unique pour les professionnels de se rencontrer, de présenter leurs travaux, de partager leurs connaissances et d'échanger avec les utilisateurs en dehors de tout cadre commercial.
+
+Lors des éditions précédentes (la dernière édition[2], en 2012, a eu lieu à Strasbourg), les participants ont pu accéder gratuitement a plus de vingt conférences présentées par des experts reconnus.
+
+Les thèmes abordés sont très variés et vont des domaines pointus aux thèmes grand public. Professionnels, institutionnels, passionnés, utilisateurs avertis ou simples curieux sont invités à partager deux journées de conférences, débats et rencontres dans une atmosphère conviviale, autour d'une philosophie fondée sur la liberté et l'entraide.
+
+Les Journées Perl ont été initiées à Paris en 2004 par l'association des Mongueurs de Perl, première association française d'utilisateurs de Perl.
+
+Dès l'année suivante, la manifestation s'est exportée à Marseille et se tient depuis à peu près une fois sur deux à Paris et dans une autre ville.
+
+L'édition de cette année aura lieu à Nancy, dans les murs de la Faculté des Sciences et Techniques de l'Université de Lorraine le vendredi 14 et le samedi 15 juin.
+
+Les organisateurs des Journées Perl sont tous bénévoles ; il en est de même pour les intervenants.
+
+Néanmoins, l'organisation d'un événement génère des frais : locations de salle, pauses café, boissons et snacks.
+Parfois, les frais de transport et d'hébergement de "personnalités" de la communauté européenne, voire mondiale, sont pris en charge par l'organisation.
+
+Nous tablons cette année sur un budget de 4000 € pour couvrir ces dépenses.
+
+C'est pourquoi je me permets de solliciter par votre biais la société OVH pour une demande de sponsoring.
+
+Un parrainage de 500 € assure au sponsor de voir son logo sur le site et sur les affiches de l'évènement, une présentation sur le site, ainsi que la participation s'il le désire à une présentation de 5 minutes pour se présenter et éventuellement annoncer des possibilités de recrutement.
+
+Un sponsoring de plus de 500€ donne droit en plus au logo sur le t-shirt et, si une captation peut être effectuée, sur les vidéos qui seront mises en ligne à l'issue des Journées Perl.
+
+Si vous ne pouvez pas parrainer à hauteur de 500 €, toute aide sera pour nous bienvenue.
+
+J'espère que vous pourrez répondre favorablement à ma demande et reste à votre disposition pour toute demande d'information complémentaire.
+
+Cordialement,
+-- 
+Luc Didry
+http://www.fiat-tux.fr/
+Envoyé depuis mon serveur de messagerie personnel.
+Je suis le seul à pouvoir lire mon courrier. Et vous ?
+
+[1] http://mongueurs.net/
+[2] http://journeesperl.fr/fpw2012/ 
