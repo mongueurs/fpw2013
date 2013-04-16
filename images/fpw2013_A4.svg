@@ -663,7 +663,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="279.10063"
+     inkscape:cx="404.54207"
      inkscape:cy="340.05396"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3719,20 +3719,20 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:93.91654968000000281px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:3.23000050000000005px;word-spacing:0px;fill:#233244;fill-opacity:1;stroke:none;font-family:Sans"
-       x="156.23856"
-       y="1034.7625"
+       style="font-size:93.91654968px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:3.2300005px;word-spacing:0px;fill:#233244;fill-opacity:1;stroke:none;font-family:Sans"
+       x="152.23856"
+       y="1031.7522"
        id="text11844-0"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="112.62"
        inkscape:export-ydpi="112.62"><tspan
          sodipodi:role="line"
          id="tspan11846-0"
-         x="156.23856"
-         y="1034.7625"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.23000050000000005px;fill:#233244;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush">journeesperl.fr</tspan></text>
+         x="152.23856"
+         y="1031.7522"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:4.82000065px;fill:#233244;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush">journeesperl.fr</tspan></text>
     <g
-       transform="matrix(0.12999388,0,0,-0.12999388,435.57765,1047.6874)"
+       transform="matrix(0.12999388,0,0,-0.12999388,414.84102,1047.0907)"
        inkscape:label="Logo-afnic"
        id="g3700">
       <g
@@ -3766,7 +3766,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.31893347,0,0,-0.31893347,499.70565,1117.2625)"
+       transform="matrix(0.31893347,0,0,-0.31893347,495.70567,1118.6731)"
        inkscape:label="Diabolocom-logo-Q"
        id="g3677">
       <g
