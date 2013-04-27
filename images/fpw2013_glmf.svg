@@ -5014,9 +5014,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="686.30691"
-     inkscape:cy="474.61818"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="272.71327"
+     inkscape:cy="629.58323"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
@@ -12792,7 +12792,12 @@
          x="31.366875"
          y="456.03604"
          style="font-size:17px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush"
-         id="tspan9390">... et du café gratuit !</tspan></text>
+         id="tspan5015">... et des goodies</tspan><tspan
+         sodipodi:role="line"
+         x="31.366875"
+         y="477.28604"
+         style="font-size:17px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush"
+         id="tspan5022">... et des promos O'Reilly</tspan></text>
     <g
        id="g9359"
        transform="translate(26.574799,-34.574807)">
