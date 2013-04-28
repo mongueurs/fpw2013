@@ -5015,8 +5015,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="272.71327"
-     inkscape:cy="629.58323"
+     inkscape:cx="353.43844"
+     inkscape:cy="446.92883"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
@@ -6015,51 +6015,59 @@
       </g>
     </g>
     <g
-       id="g9350"
-       transform="translate(22.574799,-44.574807)">
+       id="g5807"
+       transform="translate(-2,0)">
+      <rect
+         ry="4.2426405"
+         y="895.36218"
+         x="104.495"
+         height="30"
+         width="210.94975"
+         id="rect5030"
+         style="fill:#687723;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <text
          inkscape:export-ydpi="112.62"
          inkscape:export-xdpi="112.62"
          sodipodi:linespacing="125%"
          id="text11844-0"
-         y="961.0415"
-         x="96.090752"
-         style="font-size:93.91654968px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:3.2300005px;word-spacing:0px;fill:#687723;fill-opacity:1;stroke:none;font-family:Sans"
+         y="915.47687"
+         x="114.89165"
+         style="font-size:93.91654968px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:3.2300005px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:4.82000065px;fill:#687723;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush"
-           y="961.0415"
-           x="96.090752"
+           style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:4.82000065px;fill:#ffffff;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush"
+           y="915.47687"
+           x="114.89165"
            id="tspan11846-0"
            sodipodi:role="line">journeesperl.fr</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7892"
-         y="896.29846"
-         x="191.24896"
+         y="851.72363"
+         x="210.04987"
          style="font-size:24.21838379px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush"
-           y="896.29846"
-           x="191.24896"
+           y="851.72363"
+           x="210.04987"
            id="tspan7894"
            sodipodi:role="line">Faculté des Sciences</tspan><tspan
            style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush"
            id="tspan7896"
-           y="920.38959"
-           x="191.24896"
+           y="875.81476"
+           x="210.04987"
            sodipodi:role="line">de l'Université de Lorraine</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7888"
-         y="850.68536"
-         x="37.02037"
+         y="806.11053"
+         x="45.595169"
          style="font-size:16.39943504px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:1.57797062px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:1.57797062px;fill:#000000;fill-opacity:1;font-family:Umpush;-inkscape-font-specification:Umpush"
-           y="850.68536"
-           x="37.02037"
+           y="806.11053"
+           x="45.595169"
            id="tspan7890"
-           sodipodi:role="line">vendredi 14, samedi 15 juin 2013</tspan></text>
+           sodipodi:role="line">vendredi 14 et samedi 15 juin 2013</tspan></text>
     </g>
     <path
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
@@ -12928,7 +12936,7 @@
          id="tspan6193"
          x="169.93062"
          y="166.35881"
-         style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:Umpush">organisée par l'association des Mongueurs de Perl</tspan></text>
+         style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:Umpush">organisée par l'association Les Mongueurs de Perl</tspan></text>
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 149.3873,682.89394 -1.625,3.4375 1.46634,3.07828 1.23936,-1.47452 z"
