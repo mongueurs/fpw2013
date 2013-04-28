@@ -5059,7 +5059,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12936,7 +12936,9 @@
          id="tspan6193"
          x="169.93062"
          y="166.35881"
-         style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:Umpush">organisée par l'association Les Mongueurs de Perl</tspan></text>
+         style="font-size:19.27288628px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:Umpush">organisée par l'association <tspan
+   style="font-style:italic"
+   id="tspan5016">Les Mongueurs de Perl</tspan></tspan></text>
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 149.3873,682.89394 -1.625,3.4375 1.46634,3.07828 1.23936,-1.47452 z"
