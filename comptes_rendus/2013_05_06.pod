@@ -1,0 +1,70 @@
+=pod
+
+=encoding utf-8
+
+=head1 Extrait de la réunion en ligne du 2013.05.06
+
+(Compte-rendu rédigé par Laurent Boivin)
+
+
+=head2 Journées Perl 2013
+
+Laurent commence un point sur l'état d'avancement des Journées Perl,
+complété par Luc quand celui-ci arrive.
+
+On a à ce jour 3 sponsors S<facturés :> AFNIC, Diabolocom, Mirabellug.
+Ils offrent S<500 €> chacun. Weborama a confirmé son intérêt et on
+attend de connaître le montant de leur soutien (500 ou S<1000 €)>.
+
+L'affiche est faite (L<http://julien.vaubourg.com/files/fpw2013_affiche.png>)
+Elle sera publiée dans le GLMF de juin 2013. En échange, GLMF nous
+demande de distribuer des magazines à l'occasion de la conférence.
+Ils apparaissent donc sur l'affiche au même titre que les autres
+sponsors.
+
+Josette (d'O'Reilly) sera là aussi.
+
+On parle de faire un T-shirt, mais le visuel n'est pas prêt.
+
+Comme il a été dit le mois dernier, un code de conduite a été mis en
+place.
+
+Après vérification en séance, il y a 6 présentations proposées, par
+2 auteurs (Sébastien AT pour les présentations "longues" et Luc pour
+2 LT). Cela paraît léger à un mois de la conférence.
+
+Sébastien fait remarquer que l'absence de programme visible rend
+difficile la communication autour de soi. Il n'y a rien pour montrer
+que ce sera intéressant.
+
+Il est clair qu'on s'est une nouvelle fois planté sur la communication.
+L'appel à présentations a été publié sur linuxfr début avril, mais
+n'a pas été repris sur les listes de diffusion, ne serait-ce que celles
+des Mongueurs, ni ailleurs.
+Franck rappelle de le mettre sur L<http://www.agendadulibre.org/>.
+
+Sébastien AT rappelle qu'à un mois de l'événement, il est trop tard
+pour inviter des grands noms étrangers, d'autant que S<YAPC::NA> a lieu
+début juin.
+
+Pour résumer, il faut communiquer vite, partout, par tous les moyens.
+
+La suggestion de Sébastien AT de passer à une réunion par semaine
+est approuvée. On choisit le lundi 22h, sur ce canal (#mongueurs).
+
+Le graphiste des Journées Perl 2013 (Julien) est sollicité en séance
+par mail pour s'attaquer au visuel pour les T-shirts.
+
+Luc demande qui peut prendre en charge l'envoi sur les listes
+internationales.  Mais il faut d'abord traduire le Call for paper, ce
+que propose de faire Sébastien AT.
+
+Luc demande si certains Mongueurs seraient intéressés par du
+couch-surfing. Il a quelques places chez lui.
+Laurent lui suggère de le mettre sur le wiki du site, s'il n'en
+craint pas la visibilité.
+
+Laurent clôt ce point par un résumé des tâches S<urgentes :>
+traduire l'appel à présentations en anglais, le visuel pour les T-shirts,
+relance sur les listes, sur Twitter, etc.
+
